@@ -11246,6 +11246,62 @@ FROM ghcr.io/arakbox3/asura-md:latest
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #path
 WORKDIR /root/asura-md
 
@@ -11290,7 +11346,69 @@ EXPOSE 3000
 
 
 # run command
-CMD ["node", "dist/index.js"]
+CMD ["node", "index.js"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
