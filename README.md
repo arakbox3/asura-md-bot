@@ -16,7 +16,7 @@
 
 <p align="center">
   <b>🏮 ᴀꜱᴜʀᴀ ᴍᴅ ᴘᴀɪʀɪɴɢ ꜱᴇʀᴠɪᴄᴇ 🏮</b><br><br>
-  <a href="https://asura-pair-site.onrender.com">
+  <a href="https://asura-pair-site.vercel.app/">
     <img src="https://img.shields.io/badge/🏮_GET_SESSION_ID-FF0000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" height="50" />
   </a>
 </p>
